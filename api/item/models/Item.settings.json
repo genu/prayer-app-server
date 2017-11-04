@@ -1,0 +1,17 @@
+{
+  "connection": "Development",
+  "collectionName": "",
+  "info": {
+    "name": "item",
+    "description": "List of prayer items"
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
